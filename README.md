@@ -11,3 +11,6 @@ Indien er vragen zijn, neem contact op met sanneVB via slack.
 
 N.B.: Naarmate er meer tutorials worden toegevoegd zal de map structuur veranderen. 
 
+### Tutorials:
+
+Git basics: Uitleg over hoe git werkt en tutorials over hoe het te gebruiken met github
