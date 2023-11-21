@@ -66,7 +66,7 @@ Klik op next.
 
 ### [The Odin Project – Text Editors](https://www.theodinproject.com/lessons/foundations-command-line-basics): 
 1) Sla "VSCode installation" over. VSCode heb je al geinstalleerd volgens de aanwijzingen van Frank.
-2) Indien je meer bekendheid met VSCode wilt kan je de link: "VSCode Tutorial for Beginners" bekijken, anders overslaan.
+2) Indien je beter bekend wilt raken met VSCode kan je de "VSCode Tutorial for Beginners" bekijken, anders overslaan.
 
 ### [The Odin Project – Command Line Basics](https://www.theodinproject.com/lessons/foundations-git-basics):
 1) Negeer het stuk waar het zegt dat je terug moet naar "operating system installation guide" tenzij je Linux wilt proberen.
